@@ -1,1 +1,2 @@
 ## ignore secret file ##
+!secret.json
